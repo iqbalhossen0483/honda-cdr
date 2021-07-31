@@ -1,0 +1,24 @@
+/* header section  */
+.header_section{
+    background: #264653;
+}
+.logo a img{
+    width: 50px;
+}
+.purchase_btn{
+    background: #E76F51;
+}
+.purchase_btn:hover{
+    background: #264653;
+}
+
+/* main section  */
+.another_colored_text{
+    color: #E76F51;
+}
+.another_bg{
+    background-color: #e76f518f;
+}
+.star{
+    color: #E76F51;
+}
